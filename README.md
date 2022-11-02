@@ -1,5 +1,5 @@
 # Grupo 1
-TP Integrador - Programación 1 - Universidad de San Andrés
+TP Integrador - Programación 3 - Universidad de San Andrés
 
 ## Desarrollamos un sitio web sobre música desde la perspectiva del front-end y back-end
 
